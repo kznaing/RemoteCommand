@@ -15,8 +15,6 @@ This project consists of two C programs: a server and a client. The server liste
 
 To compile both the server and the client, follow the instructions below:
 
-### Server
-
 ```bash
 gcc server.c -o server
 gcc client.c -o client
